@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySQL With Image</string>
+    <string name="choose">Choose File</string>
+    <string name="caption">Caption</string>
+    <string name="save">Save</string>
+    <string name="display">Display</string>
+    <string name="image">Image</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
